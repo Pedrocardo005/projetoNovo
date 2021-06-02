@@ -16,7 +16,7 @@ function App() {
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
             <Link to={"/tutorials/:id"} className="nav-link">
-              Tutorials
+              Tutorials aula de git
             </Link>
           </li>
           <li className="nav-item">
