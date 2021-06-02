@@ -15,7 +15,7 @@ function App() {
         </a>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
-            <Link to={"/tutorials"} className="nav-link">
+            <Link to={"/tutorials/:id"} className="nav-link">
               Tutorials
             </Link>
           </li>
